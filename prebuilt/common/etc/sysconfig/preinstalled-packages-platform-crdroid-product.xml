@@ -164,4 +164,46 @@
         <install-in user-type="PROFILE" />
         <do-not-install-in user-type="android.os.usertype.profile.CLONE" />
     </install-in-user-type>
+    <!-- Google Camera -->
+    <install-in-user-type package="com.google.android.GoogleCamera">
+        <install-in user-type="FULL" />
+        <install-in user-type="PROFILE" />
+        <do-not-install-in user-type="android.os.usertype.profile.CLONE" />
+    </install-in-user-type>
+    <!-- Gallery Go -->
+    <install-in-user-type package="com.google.android.apps.photosgo">
+        <install-in user-type="FULL" />
+        <install-in user-type="PROFILE" />
+        <do-not-install-in user-type="android.os.usertype.profile.CLONE" />
+    </install-in-user-type>
+    <!-- Game Space -->
+    <install-in-user-type package="io.chaldeaprjkt.gamespace">
+        <install-in user-type="FULL" />
+        <install-in user-type="PROFILE" />
+        <do-not-install-in user-type="android.os.usertype.profile.CLONE" />
+    </install-in-user-type>
+    <!-- Google Drive -->
+    <install-in-user-type package="com.google.android.apps.docs">
+        <install-in user-type="FULL" />
+        <install-in user-type="PROFILE" />
+        <do-not-install-in user-type="android.os.usertype.profile.CLONE" />
+    </install-in-user-type>
+    <!-- Pixel Thermometer -->
+    <install-in-user-type package="com.google.android.apps.pixel.health">
+        <install-in user-type="FULL" />
+        <install-in user-type="PROFILE" />
+        <do-not-install-in user-type="android.os.usertype.profile.CLONE" />
+    </install-in-user-type>
+    <!-- ViPER4Android FX -->
+    <install-in-user-type package="com.wstxda.viper4android">
+        <install-in user-type="FULL" />
+        <install-in user-type="PROFILE" />
+        <do-not-install-in user-type="android.os.usertype.profile.CLONE" />
+    </install-in-user-type>
+    <!-- Pixel Weather -->
+    <install-in-user-type package="com.google.android.apps.weather">
+        <install-in user-type="FULL" />
+        <install-in user-type="PROFILE" />
+        <do-not-install-in user-type="android.os.usertype.profile.CLONE" />
+    </install-in-user-type>
 </config>
